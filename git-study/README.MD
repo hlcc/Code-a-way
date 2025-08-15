@@ -1510,6 +1510,7 @@ Thumbs.db
     editor = vim
     autocrlf = input
     quotepath = false
+    ignorecase = false ;关闭勿略大小写
 
 [init]
     defaultBranch = main
